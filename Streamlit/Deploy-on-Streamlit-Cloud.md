@@ -1,11 +1,5 @@
 # 🚀 Deploy a Python Website on Streamlit Community Cloud
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-Community%20Cloud-FF4B4B?logo=streamlit)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 A step-by-step guide for deploying a **Python Streamlit application** to **Streamlit Community Cloud** using **GitHub**.
 
 ---
@@ -30,7 +24,6 @@ Before starting, install the following:
 - Git
 - A GitHub account
 - A Streamlit application
-- Internet connection
 
 ---
 
